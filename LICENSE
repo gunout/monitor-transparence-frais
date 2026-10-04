@@ -1,1 +1,187 @@
+Licence Ouverte / Open Licence version 2.0
+==========================================
 
+Nom du projet : Monitor — Notes de frais des élus
+Dépôt         : https://github.com/gunout/monitor-transparence-frais
+Titulaire     : gunout
+Année         : 2026
+
+--------------------------------------------------------------------------------
+
+PRÉAMBULE
+---------
+
+Cette licence a été conçue par Etalab, mission placée sous l'autorité du
+Premier ministre, afin de permettre la réutilisation la plus large possible
+des données et contenus publics.
+
+Elle est compatible avec la Creative Commons Attribution 4.0 (CC-BY 4.0).
+
+--------------------------------------------------------------------------------
+
+ARTICLE 1 — OBJET
+-----------------
+
+La présente licence a pour objet de définir les conditions dans lesquelles
+le concédant autorise le licencié à réutiliser les informations mises à
+disposition, y compris à des fins commerciales.
+
+--------------------------------------------------------------------------------
+
+ARTICLE 2 — DÉFINITIONS
+-----------------------
+
+« Concédant » : la personne morale ou physique titulaire des droits sur
+les informations objet de la présente licence.
+
+« Informations » : les données, bases de données et contenus mis à
+disposition par le concédant sous la présente licence.
+
+« Licencié » : toute personne physique ou morale qui réutilise les
+informations.
+
+« Réutilisation » : usage des informations à d'autres fins que celles
+de la mission de service public dans le cadre de laquelle elles ont été
+produites ou reçues.
+
+« Produits dérivés » : toute œuvre ou tout service élaboré à partir des
+informations, notamment les bases de données, les applications, les
+visualisations, les analyses, etc.
+
+--------------------------------------------------------------------------------
+
+ARTICLE 3 — DROITS ACCORDÉS
+---------------------------
+
+Le concédant concède au licencié, à titre non exclusif et gratuit, les
+droits suivants sur les informations :
+
+  a) Droit de reproduire, copier, publier et transmettre les informations ;
+
+  b) Droit d'utiliser les informations à des fins commerciales ou non ;
+
+  c) Droit d'adapter, modifier, extraire, transformer les informations,
+     notamment pour créer des produits dérivés ;
+
+  d) Droit de distribuer les produits dérivés, sous réserve du respect
+     des conditions de l'article 4.
+
+Ces droits sont accordés pour le monde entier et pour toute la durée de
+protection des droits patrimoniaux.
+
+--------------------------------------------------------------------------------
+
+ARTICLE 4 — CONDITIONS D'UTILISATION
+------------------------------------
+
+La réutilisation des informations est soumise aux conditions suivantes :
+
+  4.1 — MENTION DE LA SOURCE
+
+        Le licencié doit mentionner la source des informations, ainsi que
+        la date de leur dernière mise à jour, dans toute reproduction,
+        distribution ou communication au public.
+
+        Forme recommandée de la mention :
+
+        « Source : Base de données des notes de frais publiées sur Ma Dada,
+        publiée sur data.gouv.fr, mise à jour le [date]. Licence Ouverte 2.0. »
+
+  4.2 — MENTION DE LA LICENCE
+
+        Le licencié doit mentionner les conditions de la présente licence
+        et, si possible, fournir un lien vers son texte intégral :
+        https://www.etalab.gouv.fr/licence-ouverte-open-licence
+
+  4.3 — INTÉGRITÉ DES INFORMATIONS
+
+        Le licencié ne peut pas altérer, dénaturer ou modifier le sens des
+        informations. Les modifications doivent être clairement indiquées.
+
+  4.4 — ABSENCE DE GARANTIE
+
+        Les informations sont fournies en l'état, sans garantie d'aucune
+        sorte, expresse ou implicite. Le concédant ne saurait être tenu
+        responsable des erreurs, omissions ou inexactitudes pouvant
+        affecter les informations.
+
+--------------------------------------------------------------------------------
+
+ARTICLE 5 — OBLIGATIONS DU LICENCIÉ
+-----------------------------------
+
+Le licencié s'engage à :
+
+  a) Respecter les conditions d'utilisation définies à l'article 4 ;
+
+  b) Ne pas porter atteinte à l'honneur, à la réputation ou à la dignité
+     des personnes concernées par les informations ;
+
+  c) Ne pas utiliser les informations à des fins illégales, notamment
+     pour identifier ou cibler des personnes de manière malveillante ;
+
+  d) Respecter la réglementation applicable en matière de protection
+     des données à caractère personnel (RGPD).
+
+--------------------------------------------------------------------------------
+
+ARTICLE 6 — DURÉE
+-----------------
+
+La présente licence est conclue pour toute la durée de protection des
+droits patrimoniaux sur les informations. Elle peut être résiliée par
+le concédant en cas de non-respect des conditions d'utilisation.
+
+--------------------------------------------------------------------------------
+
+ARTICLE 7 — DROIT APPLICABLE
+----------------------------
+
+La présente licence est soumise au droit français.
+
+En cas de litige, les tribunaux français seront compétents.
+
+--------------------------------------------------------------------------------
+
+ARTICLE 8 — DISPOSITIONS DIVERSES
+---------------------------------
+
+Si une ou plusieurs clauses de la présente licence étaient déclarées
+nulles ou inapplicables, les autres clauses conserveraient leur pleine
+validité et leur plein effet.
+
+--------------------------------------------------------------------------------
+
+TEXTE INTÉGRAL
+--------------
+
+Le texte intégral de la Licence Ouverte / Open Licence version 2.0
+est disponible à l'adresse suivante :
+
+https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf
+
+--------------------------------------------------------------------------------
+
+MENTION RECOMMANDÉE POUR LES RÉUTILISATEURS
+-------------------------------------------
+
+« Ce projet utilise les données de la Base de données des notes de frais
+publiées sur Ma Dada, publiée sur data.gouv.fr sous Licence Ouverte 2.0
+(Etalab). »
+
+--------------------------------------------------------------------------------
+
+MENTION DE COPYRIGHT DU PROJET
+------------------------------
+
+Copyright (c) 2026 gunout
+Tous droits réservés dans les conditions prévues par la présente licence.
+
+Le code source du monitor (HTML, CSS, JavaScript) est distribué sous
+Licence Ouverte 2.0, permettant sa réutilisation, sa modification et sa
+redistribution, y compris à des fins commerciales, sous réserve du
+respect des conditions d'attribution.
+
+--------------------------------------------------------------------------------
+
+FIN DU FICHIER
