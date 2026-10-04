@@ -52,7 +52,7 @@ Données issues de **[Ma Dada](https://madada.fr)** (équivalent français de *W
 
 | Chemin | Rôle |
 |---|---|
-| `frais.html` | Fichier unique tout-en-un (HTML + CSS + JS) |
+| `index.html` | Fichier unique tout-en-un (HTML + CSS + JS) |
 | `README.md` | Documentation |
 | `LICENSE` | Licence Ouverte 2.0 |
 | `data/PUBLIC.csv` | Source de données (1177 lignes) |
@@ -67,16 +67,16 @@ Données issues de **[Ma Dada](https://madada.fr)** (équivalent français de *W
 
 | Étape | Action | Commande |
 |---|---|---|
-| 1 | Cloner le dépôt | `git clone https://github.com/votre-user/monitor-frais-elus.git` |
-| 2 | Entrer dans le dossier | `cd monitor-frais-elus` |
-| 3 | Créer le dossier data | `mkdir -p data` |
-| 4 | Copier le CSV | `cp /chemin/vers/PUBLIC.csv data/` |
-| 5 | Lancer le serveur | `python3 -m http.server 8000` |
-| 6 | Ouvrir dans le navigateur | http://localhost:8000/frais.html |
+| 1 | Cloner le dépôt | `git clone https://github.com/gunout/monitor-transparence-frais.git` |
+| 2 | Entrer dans le dossier | `cd monitor-transparence-frais` |
+| 3 | Lancer le serveur | `python3 -m http.server 8000` |
+| 4 | Ouvrir dans le navigateur | http://localhost:8000/ |
 
 > ⚠️ **Obligatoire :** serveur local (sinon CORS bloque le chargement du CSV).
 
-**Alternative VS Code :** extension *Live Server* → clic droit sur `frais.html` → *Open with Live Server*.
+**Alternative VS Code :** extension *Live Server* → clic droit sur `index.html` → *Open with Live Server*.
+
+**Alternative GitHub Pages :** activer Pages dans *Settings → Pages → Branch: main /root* → le site sera disponible sur `https://gunout.github.io/monitor-transparence-frais/`.
 
 ---
 
@@ -193,8 +193,9 @@ Voir le fichier [LICENSE](LICENSE) pour le texte complet.
 
 | Canal | Lien |
 |---|---|
-| **Issues** | [Ouvrir une issue](../../issues) |
-| **Discussions** | [Ouvrir une discussion](../../discussions) |
+| **Dépôt** | [gunout/monitor-transparence-frais](https://github.com/gunout/monitor-transparence-frais) |
+| **Issues** | [Ouvrir une issue](https://github.com/gunout/monitor-transparence-frais/issues) |
+| **Discussions** | [Ouvrir une discussion](https://github.com/gunout/monitor-transparence-frais/discussions) |
 
 ---
 
